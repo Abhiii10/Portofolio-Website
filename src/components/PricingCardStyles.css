@@ -1,6 +1,6 @@
 .pricing{
     width: 100%;
-    padding: 6rem 1rem;
+    padding: 7rem 2 rem;
     background: #000;
 
 }
@@ -16,7 +16,7 @@
     border: 1px solid #eee;
     color: #eee;
     text-align: center;
-    padding: 1rem;
+    padding: 1 rem;
 }
 .card:hover {
     background-color: #141414;
