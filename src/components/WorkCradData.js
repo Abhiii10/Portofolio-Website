@@ -6,7 +6,7 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Travel Website Design",
-        text :"Welcome to my travel website—a portal to endless adventures. Explore captivating destinations, uncover insider tips, and get inspired to embark on your own unforgettable journeys. Let's travel together, one click at a time.",
+        text :"Exploring the world is not just a passion; it's a way of life. My travel website is a labor of love, crafted to inspire wanderlust and provide travelers with a gateway to new adventures. From vivid destination guides to insider travel tips and breathtaking photography, this platform encapsulates the essence of my journeys and the desire to share the beauty and wonder of our planet. ",
         view: "www.youtube.com"
     },
     {
