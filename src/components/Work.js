@@ -25,6 +25,6 @@ const Work = () => {
    
   </div>
   );
-}
+};
 
-export default Work
+export default Work;
