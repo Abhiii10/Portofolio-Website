@@ -6,7 +6,7 @@ import React, { useState } from 'react'
 import { FaBars, FaTimes } from "react-icons/fa";
 const Navbar = () => {
 
-  const [click, setclick]=useState(false)
+  const [click, setclick]=useState(false);
   const handleClick = () => setclick(!click);
 
   const [color, setColor] = useState(false);
@@ -16,7 +16,7 @@ const Navbar = () => {
     } else{
         setColor(false);
     }
-  }
+  };
 
   window.addEventListener("scroll", changeColor);
 
